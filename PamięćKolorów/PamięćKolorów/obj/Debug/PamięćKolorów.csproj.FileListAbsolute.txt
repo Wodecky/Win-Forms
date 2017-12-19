@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\bin\Debug\PamięćKolorów.exe.config
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\bin\Debug\PamięćKolorów.exe
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\bin\Debug\PamięćKolorów.pdb
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\obj\Debug\PamięćKolorów.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\obj\Debug\PamięćKolorów.Form1.resources
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\obj\Debug\PamięćKolorów.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\obj\Debug\PamięćKolorów.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\obj\Debug\PamięćKolorów.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\obj\Debug\PamięćKolorów.exe
+E:\siszarp\Ja zrobiłem\PamięćKolorów\PamięćKolorów\obj\Debug\PamięćKolorów.pdb

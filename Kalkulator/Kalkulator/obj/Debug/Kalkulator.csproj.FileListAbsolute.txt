@@ -1,0 +1,10 @@
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\siszarp\Kolokwium\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

@@ -1,0 +1,20 @@
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\bin\Debug\RównaniaKwadratowe.exe.config
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\bin\Debug\RównaniaKwadratowe.exe
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\bin\Debug\RównaniaKwadratowe.pdb
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.csprojResolveAssemblyReference.cache
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.Form1.resources
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.Properties.Resources.resources
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.csproj.GenerateResource.Cache
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.exe
+C:\Users\pk\source\repos\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.pdb
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\bin\Debug\RównaniaKwadratowe.exe.config
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\bin\Debug\RównaniaKwadratowe.exe
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\bin\Debug\RównaniaKwadratowe.pdb
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.Form1.resources
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.exe
+E:\siszarp\Ja zrobiłem\RównaniaKwadratowe\RównaniaKwadratowe\obj\Debug\RównaniaKwadratowe.pdb

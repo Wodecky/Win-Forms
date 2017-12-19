@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\bin\Debug\KalkulatorVAT.exe.config
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\bin\Debug\KalkulatorVAT.exe
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\bin\Debug\KalkulatorVAT.pdb
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\obj\Debug\KalkulatorVAT.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\obj\Debug\KalkulatorVAT.Form1.resources
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\obj\Debug\KalkulatorVAT.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\obj\Debug\KalkulatorVAT.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\obj\Debug\KalkulatorVAT.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\obj\Debug\KalkulatorVAT.exe
+E:\siszarp\Ja zrobiłem\KalkulatorVAT\KalkulatorVAT\obj\Debug\KalkulatorVAT.pdb

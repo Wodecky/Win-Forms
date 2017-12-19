@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\Domek\Domek\bin\Debug\Domek.exe.config
+E:\siszarp\Ja zrobiłem\Domek\Domek\bin\Debug\Domek.exe
+E:\siszarp\Ja zrobiłem\Domek\Domek\bin\Debug\Domek.pdb
+E:\siszarp\Ja zrobiłem\Domek\Domek\obj\Debug\Domek.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\Domek\Domek\obj\Debug\Domek.Form1.resources
+E:\siszarp\Ja zrobiłem\Domek\Domek\obj\Debug\Domek.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\Domek\Domek\obj\Debug\Domek.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\Domek\Domek\obj\Debug\Domek.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\Domek\Domek\obj\Debug\Domek.exe
+E:\siszarp\Ja zrobiłem\Domek\Domek\obj\Debug\Domek.pdb

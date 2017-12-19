@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\bin\Debug\AsystentZakupów.exe.config
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\bin\Debug\AsystentZakupów.exe
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\bin\Debug\AsystentZakupów.pdb
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\obj\Debug\AsystentZakupów.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\obj\Debug\AsystentZakupów.Form1.resources
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\obj\Debug\AsystentZakupów.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\obj\Debug\AsystentZakupów.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\obj\Debug\AsystentZakupów.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\obj\Debug\AsystentZakupów.exe
+E:\siszarp\Ja zrobiłem\AsystentZakupów\AsystentZakupów\obj\Debug\AsystentZakupów.pdb

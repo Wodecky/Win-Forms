@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\bin\Debug\LogoUMK.exe.config
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\bin\Debug\LogoUMK.exe
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\bin\Debug\LogoUMK.pdb
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\obj\Debug\LogoUMK.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\obj\Debug\LogoUMK.Form1.resources
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\obj\Debug\LogoUMK.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\obj\Debug\LogoUMK.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\obj\Debug\LogoUMK.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\obj\Debug\LogoUMK.exe
+E:\siszarp\Ja zrobiłem\LogoUMK\LogoUMK\obj\Debug\LogoUMK.pdb

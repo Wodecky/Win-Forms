@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\bin\Debug\LepszeTekty.exe.config
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\bin\Debug\LepszeTekty.exe
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\bin\Debug\LepszeTekty.pdb
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\obj\Debug\LepszeTekty.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\obj\Debug\LepszeTekty.Form1.resources
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\obj\Debug\LepszeTekty.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\obj\Debug\LepszeTekty.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\obj\Debug\LepszeTekty.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\obj\Debug\LepszeTekty.exe
+E:\siszarp\Ja zrobiłem\LepszeTekty\LepszeTekty\obj\Debug\LepszeTekty.pdb

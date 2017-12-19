@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\obj\Debug\Notatnik.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+E:\siszarp\Ja zrobiłem\Notatnik\Notatnik\obj\Debug\Notatnik.pdb

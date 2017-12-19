@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\bin\Debug\Pasek postępu.exe.config
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\bin\Debug\Pasek postępu.exe
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\bin\Debug\Pasek postępu.pdb
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\obj\Debug\Pasek postępu.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\obj\Debug\Pasek_postępu.Form1.resources
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\obj\Debug\Pasek_postępu.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\obj\Debug\Pasek postępu.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\obj\Debug\Pasek postępu.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\obj\Debug\Pasek postępu.exe
+E:\siszarp\Ja zrobiłem\Pasek postępu\Pasek postępu\obj\Debug\Pasek postępu.pdb

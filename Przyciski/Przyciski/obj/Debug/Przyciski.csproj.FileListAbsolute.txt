@@ -1,0 +1,10 @@
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\obj\Debug\Przyciski.csprojResolveAssemblyReference.cache
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\obj\Debug\Przyciski.Properties.Resources.resources
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\obj\Debug\Przyciski.csproj.GenerateResource.Cache
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\obj\Debug\Przyciski.csproj.CoreCompileInputs.cache
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\bin\Debug\Przyciski.exe.config
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\bin\Debug\Przyciski.exe
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\bin\Debug\Przyciski.pdb
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\obj\Debug\Przyciski.exe
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\obj\Debug\Przyciski.pdb
+E:\siszarp\Ja zrobiłem\Przyciski\Przyciski\obj\Debug\Przyciski.Form1.resources
